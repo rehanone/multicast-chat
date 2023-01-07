@@ -12,7 +12,7 @@ import java.io.IOException;
 
 /**
  * The application is a MulticastSocket based chat using the JavaFX library.
- * Was used scheme of separation of application data – Model-View-Controller.
+ * Was used scheme of separation of application data Model-View-Controller.
  *
  * @author Syniuk Valentyn
  */
